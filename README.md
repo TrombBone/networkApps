@@ -9,7 +9,7 @@ Peter the Great Polytechnic University, 8 semester
 * [lab2](src/main/java/labs/lab2): UDPPinger: TCP-server and TCP-clients for ping.
 * [lab3](src/main/java/labs/lab3): SMTP: Mail client sender.
 * [lab4](src/main/java/labs/lab4): Proxy-server and cash.
-* [lab5](src/main/java/labs/lab5): ISMPPinger.
+* [lab5](src/main/java/labs/lab5): ICMPPinger.
 
 
 ## Run
